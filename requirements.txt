@@ -5,3 +5,5 @@ streamlit-folium
 fpdf2
 matplotlib
 sqlalchemy
+geopy
+Pillow
